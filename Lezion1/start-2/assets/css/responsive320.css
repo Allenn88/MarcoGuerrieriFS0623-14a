@@ -1,0 +1,10 @@
+
+
+@media screen and (max-width: 320px){
+    nav, li{
+        display: inline-block;
+    }
+    main, li{
+        margin: 0 auto;
+    }
+    } 
